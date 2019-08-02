@@ -12,7 +12,7 @@ This repository contains notebooks for interactively visualizing the single cell
 * [1.5 CITE-seq GEX Plaque: Macrophages](#15-cite-seq-gex-plaque-macrophages)
 
 *Sample Cohort scRNA-seq*
-* [2.0 scRNA-seq GEX T Cells](#10-cite-seq-adt-pbmc-and-plaque)
+* [2.0 scRNA-seq GEX Cohort: T Cells](#10-cite-seq-adt-pbmc-and-plaque)
 
 
 ## 1.0 CITE-seq ADT PBMC and Plaque
