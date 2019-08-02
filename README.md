@@ -25,7 +25,7 @@ Single cell gene expression data data was obtained from plaque and PBMC from the
 Single cell gene expression data data was obtained from plaque and PBMC from the same subject. Cell type was assigned based on ADT surface marker expression.
 
 ## 1.3 CITE-seq GEX Plaque CD4 T Cells
-[![Nbviewer](https://github.co/m/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.3_CITE-seq_GEX_Plaque_CD4_T_Cells.ipynb)
+[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.3_CITE-seq_GEX_Plaque_CD4_T_Cells.ipynb)
 
 [<img src='img/citeseq_gex_pbmc_plaque.png' alt="citeseq_gex_pbmc_plaque" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.3_CITE-seq_GEX_Plaque_CD4_T_Cells.ipynb)
 
