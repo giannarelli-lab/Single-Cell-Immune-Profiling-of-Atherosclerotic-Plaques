@@ -17,12 +17,26 @@ Single cell antibody derived tag data data was obtained from plaque and PBMC fro
 
 Single cell gene expression data data was obtained from plaque and PBMC from the same subject. Cell type was assigned based on ADT surface marker expression.
 
-## 1.1 CITE-seq Plaque T Cells
+## 1.2 CITE-seq Plaque T Cells
+[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.2_CITE-seq_GEX_Plaque_T_Cells.ipynb)
 
+[<img src='img/citeseq_gex_pbmc_plaque.png' alt="citeseq_gex_pbmc_plaque" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.1_CITE-seq_GEX_PBMC_and_Plaque.ipynb)
 
-## 1.2 CITE-seq Plaque CD4 T Cells
+Single cell gene expression data data was obtained from plaque and PBMC from the same subject. Cell type was assigned based on ADT surface marker expression.
 
-## 1.3 CITE-seq Plaque CD8 T Cells
+## 1.3 CITE-seq Plaque CD4 T Cells
+[![Nbviewer](https://github.co/m/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.3_CITE-seq_GEX_Plaque_CD4_T_Cells.ipynb)
+
+[<img src='img/citeseq_gex_pbmc_plaque.png' alt="citeseq_gex_pbmc_plaque" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.3_CITE-seq_GEX_Plaque_CD4_T_Cells.ipynb)
+
+Single cell gene expression data data was obtained from plaque and PBMC from the same subject. Cell type was assigned based on ADT surface marker expression.
+
+## 1.4 CITE-seq Plaque CD8 T Cells
+[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.4_CITE-seq_GEX_Plaque_CD8_T_Cells.ipynb)
+
+[<img src='img/citeseq_gex_pbmc_plaque.png' alt="citeseq_gex_pbmc_plaque" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.4_CITE-seq_GEX_Plaque_CD8_T_Cells.ipynb)
+
+Single cell gene expression data data was obtained from plaque and PBMC from the same subject. Cell type was assigned based on ADT surface marker expression.
 
 
 
