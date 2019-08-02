@@ -64,5 +64,20 @@ Single cell gene expression data data was obtained from plaque and PBMC from the
 
 Single cell gene expression data data was obtained from plaque and PBMC from the same subject. Cell type was assigned based on ADT surface marker expression.
 
+## 2.0 scRNA-seq Cohort T Cells
+[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.0_scRNA-seq_Cohort_T_Cells.ipynb?flush_cache=true)
 
-Contact: https://www.mountsinai.org/profiles/chiara-giannarelli
+[<img src='img/scrnaseq_cohort_t_cells.png' alt="scrnaseq_cohort_t_cells" width="500px" >](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.0_scRNA-seq_Cohort_T_Cells.ipynb?flush_cache=true)
+
+Single-cell gene expression data was obtained from atherosclerotic plaque samples from a cohort of six patients.
+
+
+## 2.1 scRNA-seq Cohort CD4 T Cells
+[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.1_scRNA-seq_Cohort_CD4_T_Cells.ipynb?flush_cache=true)
+
+[<img src='img/scrnaseq_cohort_cd4_t_cells.png' alt="scrnaseq_cohort_cd4_t_cells" width="500px" >](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.1_scRNA-seq_Cohort_CD4_T_Cells.ipynb?flush_cache=true)
+
+Single-cell gene expression data was obtained from atherosclerotic plaque samples from a cohort of six patients.
+
+## Contact
+https://www.mountsinai.org/profiles/chiara-giannarelli
