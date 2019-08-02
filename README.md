@@ -2,8 +2,8 @@
 This repository contains notebooks for interactively visualizing the single cell gene expression data from the study: **Immune Profiling of Atherosclerotic Plaques Identifies Innate and Adaptive  Dysregulations Associated with Ischemic Cerebrovascular Events (Fernandez et al.)**. The interactive visualizations are made using the single cell data analysis and visualization toolkit [Clustergrammer2](https://github.com/ismms-himc/clustergrammer2).
 
 ### Notebooks
-* [1.0 CITE-seq ADT PBMC and Plaque](#1.0-cite-seq-adt-pbmc-and-plaque)
-* [1.1 CITE-seq GEX PBMC and Plaque](#1.1-cite-seq-gex-pbmc-and-plaque)
+* [1.0 CITE-seq ADT PBMC and Plaque](#10-cite-seq-adt-pbmc-and-plaque)
+* [1.1 CITE-seq GEX PBMC and Plaque](#11-cite-seq-gex-pbmc-and-plaque)
 
 ## 1.0 CITE-seq ADT PBMC and Plaque
 
