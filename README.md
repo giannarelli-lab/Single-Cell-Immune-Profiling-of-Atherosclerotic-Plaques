@@ -4,6 +4,9 @@ This repository contains notebooks for interactively visualizing the single cell
 ### Notebooks
 * [1.0 CITE-seq ADT PBMC and Plaque](#10-cite-seq-adt-pbmc-and-plaque)
 * [1.1 CITE-seq GEX PBMC and Plaque](#11-cite-seq-gex-pbmc-and-plaque)
+* [1.2 CITE-seq GEX Plaque: T Cells](#12-cite-seq-gex-plaque-t-cells)
+* [1.3 CITE-seq GEX Plaque: CD4 T Cells](#13-cite-seq-gex-plaque-cd4-t-cells)
+* [1.4 CITE-seq GEX Plaque: CD8 T Cells](#14-cite-seq-gex-plaque-cd8-t-cells)
 
 ## 1.0 CITE-seq ADT PBMC and Plaque
 
