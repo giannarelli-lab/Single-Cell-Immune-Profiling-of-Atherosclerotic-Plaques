@@ -34,7 +34,7 @@ Single cell gene expression data data was obtained from plaque and PBMC from the
 ## 1.4 CITE-seq GEX Plaque: CD8 T Cells
 [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.4_CITE-seq_GEX_Plaque_CD8_T_Cells.ipynb?flush_cache=true)
 
-[<img src='img/citeseq_gex_pbmc_plaque.png' alt="citeseq_gex_pbmc_plaque" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.4_CITE-seq_GEX_Plaque_CD8_T_Cells.ipynb?flush_cache=true)
+[<img src='img/citeseq_gex_cd8_t_cells_plaque.png' alt="citeseq_gex_cd8_t_cells_plaque" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.4_CITE-seq_GEX_Plaque_CD8_T_Cells.ipynb?flush_cache=true)
 
 Single cell gene expression data data was obtained from plaque and PBMC from the same subject. Cell type was assigned based on ADT surface marker expression.
 
