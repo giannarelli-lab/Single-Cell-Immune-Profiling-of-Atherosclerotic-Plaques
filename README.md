@@ -12,8 +12,8 @@ This repository contains notebooks for interactively visualizing the single cell
 * [1.5 CITE-seq GEX Plaque: Macrophages](#15-cite-seq-gex-plaque-macrophages)
 
 *Sample Cohort scRNA-seq*
-* [2.0 scRNA-seq GEX Cohort: T Cells](#10-cite-seq-adt-pbmc-and-plaque)
-* [2.1 scRNA-seq GEX Cohort: CD4 T Cells](#10-cite-seq-adt-pbmc-and-plaque)
+* [2.0 scRNA-seq GEX Cohort: T Cells](#20-scrna-seq-cohort-t-cells)
+* [2.1 scRNA-seq GEX Cohort: CD4 T Cells](#21-scrna-seq-cohort-cd4-t-cells)
 * [2.2 scRNA-seq GEX Cohort: CD8 T Cells](#10-cite-seq-adt-pbmc-and-plaque)
 * [2.3 scRNA-seq GEX Cohort: Macrophages](#10-cite-seq-adt-pbmc-and-plaque)
 
@@ -67,7 +67,7 @@ Single cell gene expression data data was obtained from plaque and PBMC from the
 ## 2.0 scRNA-seq Cohort T Cells
 [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.0_scRNA-seq_Cohort_T_Cells.ipynb?flush_cache=true)
 
-[<img src='img/scrnaseq_cohort_t_cells.png' alt="scrnaseq_cohort_t_cells" width="500px" >](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.0_scRNA-seq_Cohort_T_Cells.ipynb?flush_cache=true)
+[<img src='img/scrnaseq_cohort_t_cells.png' alt="scrnaseq_cohort_t_cells" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.0_scRNA-seq_Cohort_T_Cells.ipynb?flush_cache=true)
 
 Single-cell gene expression data was obtained from atherosclerotic plaque samples from a cohort of six patients.
 
@@ -75,7 +75,7 @@ Single-cell gene expression data was obtained from atherosclerotic plaque sample
 ## 2.1 scRNA-seq Cohort CD4 T Cells
 [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.1_scRNA-seq_Cohort_CD4_T_Cells.ipynb?flush_cache=true)
 
-[<img src='img/scrnaseq_cohort_cd4_t_cells.png' alt="scrnaseq_cohort_cd4_t_cells" width="500px" >](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.1_scRNA-seq_Cohort_CD4_T_Cells.ipynb?flush_cache=true)
+[<img src='img/scrnaseq_cohort_cd4_t_cells.png' alt="scrnaseq_cohort_cd4_t_cells" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.1_scRNA-seq_Cohort_CD4_T_Cells.ipynb?flush_cache=true)
 
 Single-cell gene expression data was obtained from atherosclerotic plaque samples from a cohort of six patients.
 
