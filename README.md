@@ -3,7 +3,7 @@ This repository contains notebooks for interactively visualizing the single cell
 
 ### Notebooks
 * [1.0 CITE-seq ADT PBMC and Plaque](#1.0-CITE-seq-ADT-PBMC-and-Plaque)
-* 1.1 CITE-seq GEX PBMC and Plaque
+* [1.1 CITE-seq GEX PBMC and Plaque](#1.1-CITE-seq-GEX-PBMC-and-Plaque)
 
 ## 1.0 CITE-seq ADT PBMC and Plaque
 
