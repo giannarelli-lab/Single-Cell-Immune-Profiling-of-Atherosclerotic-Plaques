@@ -79,5 +79,20 @@ Single-cell gene expression data was obtained from atherosclerotic plaque sample
 
 Single-cell gene expression data was obtained from atherosclerotic plaque samples from a cohort of six patients.
 
+
+## 2.2 scRNA-seq Cohort CD8 T Cells
+[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.2_scRNA-seq_Cohort_CD8_T_Cells.ipynb?flush_cache=true)
+
+[<img src='img/scrnaseq_cohort_cd8_t_cells.png' alt="scrnaseq_cohort_cd8_t_cells" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.2_scRNA-seq_Cohort_CD8_T_Cells.ipynb?flush_cache=true)
+
+Single-cell gene expression data was obtained from atherosclerotic plaque samples from a cohort of six patients.
+
+## 2.3 scRNA-seq Cohort Macrophages
+[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.3_scRNA-seq_Cohort_Macrophages.ipynb?flush_cache=true)
+
+[<img src='img/scrnaseq_cohort_macrophages.png' alt="scrnaseq_cohort_macrophages" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/2.3_scRNA-seq_Cohort_Macrophages.ipynb?flush_cache=true)
+
+Single-cell gene expression data was obtained from atherosclerotic plaque samples from a cohort of six patients.
+
 ## Contact
 https://www.mountsinai.org/profiles/chiara-giannarelli
