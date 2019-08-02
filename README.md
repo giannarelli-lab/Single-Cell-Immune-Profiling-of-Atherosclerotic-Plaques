@@ -14,11 +14,13 @@ This repository contains notebooks for interactively visualizing the single cell
 *Sample Cohort scRNA-seq*
 * [2.0 scRNA-seq GEX Cohort: T Cells](#20-scrna-seq-cohort-t-cells)
 * [2.1 scRNA-seq GEX Cohort: CD4 T Cells](#21-scrna-seq-cohort-cd4-t-cells)
-* [2.2 scRNA-seq GEX Cohort: CD8 T Cells](#10-cite-seq-adt-pbmc-and-plaque)
-* [2.3 scRNA-seq GEX Cohort: Macrophages](#10-cite-seq-adt-pbmc-and-plaque)
+* [2.2 scRNA-seq GEX Cohort: CD8 T Cells](#22-scrna-seq-cohort-cd8-t-cells)
+* [2.3 scRNA-seq GEX Cohort: Macrophages](#23-scrna-seq-cohort-macrophages)
 
 *Ligand-Receptor Interaction Prediction*
-* [3.0 Ligand-Receptor Sym-vs-Asym Differential Regulation](#10-cite-seq-adt-pbmc-and-plaque)
+* [3.0 Ligand-Receptor Sym-vs-Asym Differential Regulation](#30-ligand-receptor-sym-vs-asym-differential-regulation)
+
+Click above notebook links to navigate to section and find NBViewer linkst to interactive notebooks.
 
 ## 1.0 CITE-seq PBMC and Plaque: ADT
 
