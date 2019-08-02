@@ -97,7 +97,7 @@ Single-cell gene expression data was obtained from atherosclerotic plaque sample
 ## 3.0 Ligand-Receptor Sym-vs-Asym Differential Regulation
 [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/3.0_Ligand-Receptor_Sym-vs-Asym_Differential_Regulation.ipynb?flush_cache=true)
 
-[<img src='img/scrnaseq_cohort_macrophages.png' alt="scrnaseq_cohort_macrophages" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/3.0_Ligand-Receptor_Sym-vs-Asym_Differential_Regulation.ipynb?flush_cache=true)
+[<img src='img/lig-rec_sym-asym_diff_interactions.png' alt="lig-rec_sym-asym_diff_interactions" width="500px" >](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/3.0_Ligand-Receptor_Sym-vs-Asym_Differential_Regulation.ipynb?flush_cache=true)
 
 Putative ligand-receptor interactions between cell types were predicted based on the product of ligand and receptor expression across pairs of cell types. Differentially regulated interactions across symptomatic vs asymptomatic plaques are shown in interactive heatmaps.
 
