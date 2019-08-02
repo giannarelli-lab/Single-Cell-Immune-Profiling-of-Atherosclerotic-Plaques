@@ -15,7 +15,7 @@ This repository contains notebooks for interactively visualizing the single cell
 * [2.0 scRNA-seq GEX Cohort: T Cells](#10-cite-seq-adt-pbmc-and-plaque)
 
 
-## 1.0 CITE-seq ADT PBMC and Plaque
+## 1.0 CITE-seq PBMC and Plaque: ADT
 
 [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.0_CITE-seq_ADT_PBMC_and_Plaque.ipynb?flush_cache=true)
 
@@ -23,7 +23,7 @@ This repository contains notebooks for interactively visualizing the single cell
 
 Single cell antibody derived tag data data was obtained from plaque and PBMC from the same subject. Cell type was assigned based on ADT surface marker expression.
 
-## 1.1 CITE-seq GEX PBMC and Plaque
+## 1.1 CITE-seq PBMC and Plaque: GEX
 
 [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.1_CITE-seq_GEX_PBMC_and_Plaque.ipynb?flush_cache=true)
 
