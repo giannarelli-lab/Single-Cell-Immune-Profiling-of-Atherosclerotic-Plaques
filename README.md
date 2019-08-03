@@ -1,5 +1,5 @@
 # Single Cell Immune Profiling of Atherosclerotic Plaques
-This repository contains notebooks for interactively visualizing the single cell gene expression data from the study: **Immune Profiling of Atherosclerotic Plaques Identifies Innate and Adaptive  Dysregulations Associated with Ischemic Cerebrovascular Events (Fernandez et al.)**. The interactive visualizations are made using the single cell data analysis and visualization toolkit [Clustergrammer2](https://clustergrammer.readthedocs.io/).
+This repository contains notebooks for interactively visualizing the single cell gene expression data from the study: **Immune Profiling of Atherosclerotic Plaques Identifies Innate and Adaptive  Dysregulations Associated with Ischemic Cerebrovascular Events (Fernandez et al.)**. The interactive visualizations are made using the single cell data analysis and visualization toolkit [Clustergrammer2](https://clustergrammer.readthedocs.io/) and work best using the Chrome browser.
 
 ### Notebook Directory
 
