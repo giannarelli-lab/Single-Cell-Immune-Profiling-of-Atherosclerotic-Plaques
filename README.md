@@ -1,4 +1,5 @@
 # Single Cell Immune Profiling of Atherosclerotic Plaques
+[![DOI](https://zenodo.org/badge/200076351.svg)](https://zenodo.org/badge/latestdoi/200076351)
 This repository contains notebooks for interactively visualizing the single cell gene expression data from the study: **Immune Profiling of Atherosclerotic Plaques Identifies Innate and Adaptive  Dysregulations Associated with Ischemic Cerebrovascular Events (Fernandez et al.)**. The interactive visualizations are made using the single cell data analysis and visualization toolkit [Clustergrammer2](https://clustergrammer.readthedocs.io/) and work best using the Chrome browser.
 
 [![citeseq_adt](img/citeseq_adt.gif)](https://nbviewer.jupyter.org/github/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/blob/master/notebooks/1.0_CITE-seq_ADT_PBMC_and_Plaque.ipynb?flush_cache=true)
