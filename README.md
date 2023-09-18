@@ -1,6 +1,6 @@
 # Single Cell Immune Profiling of Atherosclerotic Plaques
 
-Raw data and processed count matrices for this study have been deposited in GEO under the accession number GSE224273 [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235437](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE224273)
+Raw data and processed count matrices for this study have been deposited in GEO under the accession number GSE224273 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE224273)
 
 ### Launch Dashboard
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giannarelli-lab/Single-Cell-Immune-Profiling-of-Atherosclerotic-Plaques/master?urlpath=voila/render/notebooks/Dashboard_CITE-seq_PBMC_and_Plaque.ipynb)
